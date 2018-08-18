@@ -1,0 +1,43 @@
+{
+    "class_id": "com-snaplogic-snaps-salesforce-salesforceaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SnapLogicCertificationOrg"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "RM_SFDC"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "loginUrl": {
+                "value": "https://login.salesforce.com"
+            },
+            "password": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "sym_iv": "0VHYXpjGtLMYFe8ac33UtQ==",
+                "sym_key": "iK/Am/Ng8J7DzxH/hNSGqshvB6JkauYYbTb4tc32qJ4VJaShbfIqHvwq+eQcr8HSSHo3aFZJlu0TQvFNhOgJoNCMh7BB7tHQrjBMyuaseM391W7IlXLcrnnnn0EtSSN8GTUdOZP1IMITvTLwWTTOYJVGtTkvsAuHffJbA6Ochixuz5KrPGWUPucw2sk3oi7G5lF22h3Rm+hkyvouRz0JHJsVOPjbf9kfj5Vx11wa4zTuJoHYCMCSTzsyGLgeO/PwcW7J2ChuTZEm9zTW/+X/xiPh+uUZK3FsSFpog50YcveibobU4qnrmZGJGRLgQh9eLyzCHPAYhnjnreWtRbaniQ==",
+                "value": "2MKFKH/4X4pf3TrwAl/Vww=="
+            },
+            "sandbox": {
+                "value": false
+            },
+            "securityToken": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "sym_iv": "4UMZ0Lh0v94B88ja3oKD2w==",
+                "sym_key": "Hd0KL9HeFsfAv2kQu/9UnemNH25mpjDCEMAJZgx3EGpqKKRqo5KKJaZ8XeoSP/0tE+0mLgUQxQVN5Bo/ABC3kD1mgGv8JhWscP8MHyVOP/Zqu4+ns8v9ueLsBmYl9XYn6EGmQzuWsqkOv21pQHLss+ByiJADcKpv62ztED5chCO/qw4SyHDN8SXB9RP/ARU0C5qWmofzVLfX1O6L8raC+3MuuyYcXe5VUJnjTlCDKPwOjlUPIqVQIGDyi7kwbL2wAv+4m2nXaNtcQWjcUnT0h5rW77fA82OeGhOgh6t1QxMTwgJClADRkx8PYDw/U5CBKXGx1Y3g7w+GQX2X8mRCmQ==",
+                "value": "A+SwKyRChwgcxc3XYpgapmzrFdH1bvBf6iSkubZ4p8w="
+            },
+            "username": {
+                "value": "rudra@2piradius.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

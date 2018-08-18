@@ -1,0 +1,56 @@
+{
+    "class_id": "com-snaplogic-snaps-email-smtpaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SnapLogicCertificationOrg"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Email"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "attachmentPassword": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "sym_iv": "xuX1iFNsmjHI4MNJbHHLBQ==",
+                "sym_key": "A4MP2BBi6BP49iilDlVyGI8BBgsl5aZuBYvcbfhRuM7J+cRxRI5+CBOtDIiQaVXPZjbKES0DUhhdmh32JYmU45jrf2oeruRiewqYzmce22gA4CaWTJLacMaAYELavp05i7TFUx2D0CSQdWPtSFSAC0mF5qxggh0eeMdvutjdQ0te68fyqL79f/SdUqTSh1s2SBO++malqsFZIISTMo3pvMkZKNmPXuXrDeaowgfxUkMGHyhTrvNkYtGWeyql5F9DKCaNWcmoVdN2SyAhX1FwLDnUUpC1Ios/09wzOCKGOshve8riZcE7yPEqh/9WgXVMo3Xyaba+YHakBVu8yWUEag==",
+                "value": "evo6xAgpEsTjheua07fMtA=="
+            },
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": "amirudradip@gmail.com"
+            },
+            "mailProperties": {
+                "value": []
+            },
+            "password": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "value": "Puy/pWI+p3ZwBqP+KAvIdErUhZYICTn7k7nRxRuZW9VDQFK33Ka70nIOv2TXYQzMgXGL2k1vyYWGFSfXVBQmItflAwt/CaPxtJ+PTrK4k3FEKwzGcucYwNjhP8HbwhWoBiwAv8Wp7uxd2yRexx5HRlsQqiUeh+xeVWaBzmqUZzuiNceZ3KUt/MnFZqmcFLav2c4SM414/YQHMd8X4LHLKYmq9SkCo9GQc4yjx6yvvJlWaI1Pp+6eMqcjjgY2Zn9kAnaSqlJlVt5XAxlZBlpVKc6oYrN4SiT+SEJ5P7y3SKl+etidF86FMw7ozUbId4XEqrS+lpV03c/xgWuJYy88gw=="
+            },
+            "port": {
+                "value": "48"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "SSL"
+            },
+            "serverDomain": {
+                "value": "mail.google.com"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}

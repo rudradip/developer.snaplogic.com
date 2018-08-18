@@ -1,0 +1,23 @@
+{
+  "age" : "28",
+  "job" : "technician",
+  "marital" : "married",
+  "education" : "university.degree",
+  "default" : "no",
+  "housing" : "yes",
+  "loan" : "no",
+  "contact" : "cellular",
+  "month" : "may",
+  "day_of_week" : "thu",
+  "duration" : "201",
+  "campaign" : "1",
+  "pdays" : "999",
+  "previous" : "0",
+  "poutcome" : "nonexistent",
+  "emp_var_rate" : "-1.8",
+  "cons_price_idx" : "92.893",
+  "cons_conf_idx" : "-46.2",
+  "euribor3m" : "1.327",
+  "nr_employed" : "5099.1",
+  "y" : "0"
+}

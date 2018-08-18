@@ -1,0 +1,18 @@
+{
+  "age" : "42",
+  "campaign" : "2",
+  "cons_conf_idx" : "-41.8",
+  "cons_price_idx" : "94.465",
+  "emp_var_rate" : "1.4",
+  "euribor3m" : "4.959",
+  "housing" : "yes",
+  "job" : "blue-collar",
+  "loan" : "no",
+  "marital" : "married",
+  "month" : "jun",
+  "nr_employed" : "5228.1",
+  "pdays" : "999",
+  "poutcome" : "nonexistent",
+  "previous" : "0",
+  "y" : "0"
+}

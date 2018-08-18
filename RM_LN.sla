@@ -1,0 +1,54 @@
+{
+    "class_id": "com-snaplogic-snaps-linkedin-linkedinoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SnapLogicCertificationOrg"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "RM_LN"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "auth_endpoint": {
+                "value": "https://www.linkedin.com/uas/oauth2/authorization"
+            },
+            "auth_endpoint_config": {
+                "value": []
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": false
+            },
+            "client_id": {
+                "value": "amirudradip@gmail.com"
+            },
+            "client_secret": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "sym_iv": "hphoAAsyOYhqpQjFuzLM7Q==",
+                "sym_key": "B2EXd+2S62XAOmYKhhQiACEfjq+0EU6qJJIUa/cKBzENdl/9GrClCsONByB3NVlbz52e8yquW+3GVa9XpxE/dBDcehUIIi5dDfQ24wd5wXPO2+fh6Z6S/OZCYNR2K+7+laaOidSxAtKop3sBL6spggqz9NjKTX44gb0acvBY3BOLJuyELQ1j+zm4Ja2svSZdk539u0PusKl2bm0QQiQJ5zqBuGyH3y1KEXMmtEeRcdw8eUuG2666uME6Gf2RkJEyRKDQh6vP+sZAulphR6nfw+aKaE81C/BEJ3onN1ymGp+BOANmRwKBLOrM61DTofBpQHh5S/Ci1H4y1419Hz1LHA==",
+                "value": "DFQWoCO3WODvFw5ziP/MrA=="
+            },
+            "headerAuth": {
+                "value": false
+            },
+            "refresh": {
+                "value": null
+            },
+            "token_endpoint": {
+                "value": "https://www.linkedin.com/uas/oauth2/accessToken"
+            },
+            "token_endpoint_config": {
+                "value": []
+            }
+        },
+        "view_serial": 100
+    }
+}

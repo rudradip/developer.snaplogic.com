@@ -1,0 +1,28 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SnapLogicCertificationOrg"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "rm_api_proxy"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "value": "gK6c0sQJILyN83Bx05u3cE33ek2q9kuXuUGOoJX/UUjZIwX5XDhD8PQ+8dWGTm2E38vikNyDpjvLJPKtnOUOsPX0ilDFujsT0bsFSf2eUPdm5EVSTBcebNF4ceqz9KU1710jWqSH9WLFJv2imePmcWZwulaVqPt6cmZK3WvYS8JO+3sZE1/dGvBHNraz3mhbiXJH/t1ly7aufP20MFsAyOiefc6Di6zUtlh+XnsaB0XpIq3RPpSo4qfClb5LShgnAv7RtCpT94I7HFiLwiu/IhWOr6pNXjyFVJ7vJIqvjDySBjWKkan1Gm0fhXbRkDav243y7GG9jj4jHHYhSbJRaQ=="
+            },
+            "username": {
+                "value": "amirudradip@gmail.com"
+            }
+        },
+        "view_serial": 100
+    }
+}

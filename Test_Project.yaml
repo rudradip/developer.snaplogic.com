@@ -1,0 +1,21 @@
+swagger: '2.0'
+info:
+  title: Test_Project
+  description: ''
+  version: '1.0'
+host: elastic.snaplogic.com:443
+basePath: /api/1/rest/slsched/feed/SnapLogicCertificationOrg/projects/Test_Project
+schemes:
+- https
+paths:
+  /File_Reader1_Task:
+    get:
+      produces: []
+      responses:
+        '200':
+          description: OK
+securityDefinitions:
+  basicAuth:
+    type: basic
+security:
+- basicAuth: []

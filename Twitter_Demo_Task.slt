@@ -1,0 +1,24 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Twitter_Demo_Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": 240,
+        "include_external_urls": true,
+        "job_alias": null,
+        "job_type": "regular",
+        "llfeed_token": "1T3FsDhTT8xGTlGmyMaxnlDHh9v80Gih",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "num_instances": 1,
+        "pipeline_path": null,
+        "snaplex_path": "Cloud"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
